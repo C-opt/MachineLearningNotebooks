@@ -8,8 +8,16 @@ Machine learning notebooks for bridging theory and practice.
   - Eigen decomposition
   - LU decomposition
   - Cholesky decomposition
+- Calculus
+  - \mathbb{R}
+  - \mathbb{R}
 - Numerical Optimization for ML
   - Gradient Descent
+- Losses
+  - Mean Square Error (MSE)
+  - Cross Entropy
+- Cross Validation
+-  
 
 
 ## ML Study Resources
