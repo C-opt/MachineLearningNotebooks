@@ -21,10 +21,14 @@ Machine learning notebooks for bridging theory and practice.
   - Back propagation
 - Numerical Optimization for ML
   - Gradient Descent
+  - Stochastic Gradient Descent
+  - SVRG
+  - SAG
+  - Nesterov Momentum and its oscilations
+  - Adam & Eve
 - Losses
   - Mean Square Error (MSE)
   - Cross Entropy
-
 - Cross Validation
   - k-fold
   - stratified k-fold
