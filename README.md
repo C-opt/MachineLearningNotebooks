@@ -4,12 +4,13 @@ Machine learning notebooks for bridging theory and practice.
 ## Notebooks
 - Raschka book
 - Linear algebra
--- SVD
--- Eigen decomposition
--- LU decomposition
--- Cholesky decomposition
+  - SVD
+  - Eigen decomposition
+  - LU decomposition
+  - Cholesky decomposition
 - Numerical Optimization for ML
--- Gradient Descent
+  - Gradient Descent
+
 
 ## ML Study Resources
 
