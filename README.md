@@ -1,5 +1,15 @@
 # MachineLearningNotebooks
-Machine learning notebooks for bridging theory and practice
+Machine learning notebooks for bridging theory and practice. 
+
+## Notebooks
+- Raschka book
+- Linear algebra
+-- SVD
+-- Eigen decomposition
+-- LU decomposition
+-- Cholesky decomposition
+- Numerical Optimization for ML
+-- Gradient Descent
 
 ## ML Study Resources
 
