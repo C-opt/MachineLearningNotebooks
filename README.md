@@ -35,7 +35,7 @@ Machine learning notebooks for bridging theory and practice
 - How to compute SVD: [https://cs.fit.edu/~dmitra/SciComp/Resources/singular-value-decomposition-fast-track-tutorial.pdf](https://cs.fit.edu/~dmitra/SciComp/Resources/singular-value-decomposition-fast-track-tutorial.pdf)
 - SVD Tutorial [https://datajobs.com/data-science-repo/SVD-Tutorial-[Kirk-Baker].pdf](https://datajobs.com/data-science-repo/SVD-Tutorial-%5BKirk-Baker%5D.pdf)
 - SVD Theory: [https://www.cs.cornell.edu/courses/cs322/2008sp/stuff/TrefethenBau_Lec4_SVD.pdf](https://www.cs.cornell.edu/courses/cs322/2008sp/stuff/TrefethenBau_Lec4_SVD.pdf)
-- Image approx using SVD[https://www.qoosky.io/techs/f269112845](https://www.qoosky.io/techs/f269112845)
+- Image approx using SVD [https://www.qoosky.io/techs/f269112845](https://www.qoosky.io/techs/f269112845)
 
 ## Cheatsheets
 - [https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
