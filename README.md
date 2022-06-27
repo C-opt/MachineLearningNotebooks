@@ -9,8 +9,8 @@ Machine learning notebooks for bridging theory and practice.
   - LU decomposition
   - Cholesky decomposition
 - Calculus
-  - \mathbb{R}
-  - \mathbb{R}
+  - $\mathbb{R}$
+  - $\mathbb{R}$
 - Numerical Optimization for ML
   - Gradient Descent
 - Losses
