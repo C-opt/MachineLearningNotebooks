@@ -2,7 +2,13 @@
 Machine learning notebooks for bridging theory and practice. 
 
 ## Notebooks
-- Raschka book
+- ML
+  - SVM
+  - PCA
+- DL
+  - Fully connected 
+  - Convolutional neural network
+- MNIST
 - Linear algebra
   - SVD
   - Eigen decomposition
@@ -18,6 +24,7 @@ Machine learning notebooks for bridging theory and practice.
 - Losses
   - Mean Square Error (MSE)
   - Cross Entropy
+
 - Cross Validation
   - k-fold
   - stratified k-fold
