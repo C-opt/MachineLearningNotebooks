@@ -24,8 +24,9 @@ Machine learning notebooks for bridging theory and practice.
   - Stochastic Gradient Descent
   - SVRG
   - SAG
-  - Nesterov Momentum and its oscilations
+  - Nesterov Momentum and gradient oscilations
   - Adam & Eve
+  - Pflug diagnostic and gradient shakiness
 - Losses
   - Mean Square Error (MSE)
   - Cross Entropy
