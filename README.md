@@ -6,7 +6,7 @@ Machine learning notebooks with theory &amp; practice
 ### ML Theory
 - Inside Deep Learning Math Algorithms Models: [https://www.amazon.co.jp/Inside-Deep-Learning-Algorithms-Models/dp/1617298638](https://www.amazon.co.jp/Inside-Deep-Learning-Algorithms-Models/dp/1617298638)
 - Math and architectures of deep learning: [https://www.manning.com/books/math-and-architectures-of-deep-learning](https://www.manning.com/books/math-and-architectures-of-deep-learning)
-- [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html)
+- Probabilistic Machine Learning: An Introduction [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html)
 - Advanced Topics in Machine Learning: [https://people.cs.pitt.edu/~milos/courses/cs3750-Fall2011/](https://people.cs.pitt.edu/~milos/courses/cs3750-Fall2011/)
 - Neural Networks and Deep Learning (white guy): [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
 - Neural Networks and Deep Learning (Indian guy) [https://www.google.co.jp/books/edition/Neural_Networks_and_Deep_Learning/achqDwAAQBAJ?hl=en&gbpv=1&dq=neural+networks+and+deep+learning&printsec=frontcover](https://www.google.co.jp/books/edition/Neural_Networks_and_Deep_Learning/achqDwAAQBAJ?hl=en&gbpv=1&dq=neural+networks+and+deep+learning&printsec=frontcover)
