@@ -1,5 +1,5 @@
 # MachineLearningNotebooks
-Machine learning notebooks with theory &amp; practice
+Machine learning notebooks for bridging theory and practice
 
 ## ML Study Resources
 
