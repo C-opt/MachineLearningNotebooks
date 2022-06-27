@@ -11,13 +11,19 @@ Machine learning notebooks for bridging theory and practice.
 - Calculus
   - $\mathbb{R}$
   - $\mathbb{R}^n$
+  - Chain-rule
+  - Back propagation
 - Numerical Optimization for ML
   - Gradient Descent
 - Losses
   - Mean Square Error (MSE)
   - Cross Entropy
 - Cross Validation
--  
+  - k-fold
+  - stratified k-fold
+  - LOOCV
+  - nested stratified k-fold
+  - what does cv estimate? 
 
 
 ## ML Study Resources
