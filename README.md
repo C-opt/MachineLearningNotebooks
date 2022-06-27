@@ -3,6 +3,8 @@ Machine learning notebooks for bridging theory and practice.
 
 ## Notebooks
 - ML
+  - Linear Regression
+  - Logistic Regression
   - SVM
   - PCA
 - DL
