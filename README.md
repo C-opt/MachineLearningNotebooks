@@ -10,7 +10,7 @@ Machine learning notebooks for bridging theory and practice.
   - Cholesky decomposition
 - Calculus
   - $\mathbb{R}$
-  - $\mathbb{R}$
+  - $\mathbb{R}^n$
 - Numerical Optimization for ML
   - Gradient Descent
 - Losses
